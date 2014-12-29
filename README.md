@@ -3,6 +3,13 @@
 ### Description
 On-Board was built to enhance student experience prior to beginning the Web Development Intensive program at New York Code and Design Academy.
 
+http://onboard-app.herokuapp.com
+
+```
+username: nathan@nycda.com
+password: 12345678
+```
+
 ### Set Up
 Pull down the repository:
 ```
@@ -27,5 +34,8 @@ rails s
 Go to localhost:3000 in your browser.
 
 ### Deployment
-- TBD
+
+http://onboard-app.herokuapp.com
+
+
 
