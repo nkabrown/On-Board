@@ -10,6 +10,8 @@ username: nathan@nycda.com
 password: 12345678
 ```
 
+Are you a student of a bootcamp or have graduated from one? Awesome! Look me up on [LinkedIn](www.linkedin.com/in/nkabrown) or follow my blog [Minerva’s Owlet](http://nkabrown.tumblr.com) so I can follow you.
+
 ### Set Up
 Pull down the repository:
 ```
@@ -32,10 +34,5 @@ rails s
 ```
 
 Go to localhost:3000 in your browser.
-
-### Deployment
-
-http://onboard-app.herokuapp.com
-
 
 
